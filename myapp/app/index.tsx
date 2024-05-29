@@ -9,6 +9,8 @@ import RoundedBox from '../components/RoundedBox';
 import ThreePartBox from '../components/ThreePartBox'; 
 import BottomBox from '../components/Bottombox'; 
 import BottomBox2 from '../components/Bottombox2'; 
+import 'react-native-gesture-handler';
+
 
 const Index = () => {
   // Sample image links for the Slider component
